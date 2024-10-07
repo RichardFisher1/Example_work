@@ -1,0 +1,25 @@
+# Ignore the virtual environment folder
+venv/
+
+# Ignore Python bytecode
+*.pyc
+__pycache__/
+
+# Ignore the .idea folder (PyCharm project files)
+.idea/
+
+# Ignore MacOS hidden files
+.DS_Store
+
+# Ignore common log files
+*.log
+
+# Ignore build artifacts and distribution folders
+build/
+dist/
+*.egg-info/
+*.egg-info
+
+# Ignore environment configuration files
+.env
+
