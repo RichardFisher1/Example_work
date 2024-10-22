@@ -144,13 +144,10 @@ Results -
 | 68.0 | 2024-09-05 08:40:00.999 | 18641.4       | 18631.9      | 2024-09-05 08:43:44.999 | long  | 1.0                   | -11.9    |
 | 69.0 | 2024-09-05 09:45:00.999 | 18613.9       | 18607.9      | 2024-09-05 09:47:08.999 | long  | 1.0                   | -8.4     |
 
-The video below demonstrates the old gui visual backtest of a stratgey.
+The video below demonstrates functionality of TradeLab gui.
 
-[![Watch the video](https://img.youtube.com/vi/yEn3D8xwkRA/maxresdefault.jpg)](https://youtu.be/yEn3D8xwkRA)
+[![Watch the video](https://img.youtube.com/vi/lh_4352uxYM/maxresdefault.jpg)](https://youtu.be/lh_4352uxYM)
 
-The video below demonstrates the new gui. 
-
-[![Watch the video](https://img.youtube.com/vi/n13-qVpFOng/maxresdefault.jpg)](https://youtu.be/n13-qVpFOng)
 
 ## Activating and Deactivating the Virtual Environment
 Once the virtual environment is activated, you can deactivate it when you're done working. Here’s how to deactivate and reactivate it when coming back to the project.
